@@ -1,0 +1,22 @@
+html {
+  background-color: #f7f8f7;
+  color: #334;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  margin: 2rem;
+}
+
+footer {
+  background-color: #aa9;
+  height: 1px;
+  margin: 2rem;
+}

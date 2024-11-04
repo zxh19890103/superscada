@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "Anonymous Pro",
+  "editor.fontSize": 14,
+  "window.zoomLevel": 1,
+  "editor.letterSpacing": 0,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontWeight": "normal",
+  "workbench.colorTheme": "Default Light+",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/node_modules": true
+  }
+}
